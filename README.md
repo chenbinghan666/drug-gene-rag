@@ -1,6 +1,10 @@
 # Drug–Gene RAG
 
-这是一个基于 PubMed API 和智谱大模型 API 的入门项目。用户输入基因、药物和癌症类型后，程序会检索相关 PubMed 文献，并让大模型依据检索结果分析药物与基因的关系。
+**简体中文** · [English](https://github.com/chenbinghan666/drug-gene-rag/blob/main/docs/locales/README.en.md) · [日本語](https://github.com/chenbinghan666/drug-gene-rag/blob/main/docs/locales/README.ja.md) · [Deutsch](https://github.com/chenbinghan666/drug-gene-rag/blob/main/docs/locales/README.de.md) · [Français](https://github.com/chenbinghan666/drug-gene-rag/blob/main/docs/locales/README.fr.md) · [Español](https://github.com/chenbinghan666/drug-gene-rag/blob/main/docs/locales/README.es.md) · [Português](https://github.com/chenbinghan666/drug-gene-rag/blob/main/docs/locales/README.pt.md)
+
+输入基因、药物和癌症类型，从 PubMed 检索摘要，再用智谱模型整理文献中的关联证据。面向学习和文献辅助阅读。
+
+Python · PubMed · Zhipu AI
 
 ## 功能流程
 
