@@ -6,6 +6,14 @@ Enter a gene, a drug, and a cancer type. The tool retrieves PubMed abstracts and
 
 Python · PubMed · Zhipu AI
 
+## Demo
+
+Shows the PubMed query, abstract retrieval, and model request using mocked API responses.
+
+[![Demo](../../docs/images/project-demo.gif)](../../docs/images/project-demo.mp4)
+
+[Download MP4](../../docs/images/project-demo.mp4?raw=true)
+
 ## How it works
 
 1. Receive genes, drugs, and cancer types.

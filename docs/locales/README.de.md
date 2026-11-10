@@ -6,6 +6,14 @@ Nach Eingabe eines Gens, eines Wirkstoffs und einer Krebsart ruft das Tool PubMe
 
 Python · PubMed · Zhipu AI
 
+## Demo
+
+Zeigt PubMed-Suche, Abruf von Abstracts und Modellanfrage mit simulierten API-Antworten.
+
+[![Demo](../../docs/images/project-demo.gif)](../../docs/images/project-demo.mp4)
+
+[MP4 herunterladen](../../docs/images/project-demo.mp4?raw=true)
+
 ## Funktioneller Ablauf
 
 1. Erhalten Sie Gene, Medikamente und Krebsarten.

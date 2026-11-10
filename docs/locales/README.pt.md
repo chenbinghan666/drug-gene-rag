@@ -6,6 +6,14 @@ A partir de um gene, um fármaco e um tipo de câncer, a ferramenta recupera res
 
 Python · PubMed · Zhipu AI
 
+## Demonstração
+
+Mostra a consulta ao PubMed, a recuperação de resumos e a chamada ao modelo com respostas simuladas.
+
+[![Demonstração](../../docs/images/project-demo.gif)](../../docs/images/project-demo.mp4)
+
+[Baixar MP4](../../docs/images/project-demo.mp4?raw=true)
+
 ## Fluxo funcional
 
 1. Receba genes, medicamentos e tipos de câncer.

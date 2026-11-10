@@ -6,6 +6,14 @@
 
 Python · PubMed · Zhipu AI
 
+## 实操演示
+
+用模拟响应演示从 PubMed 查询、摘要提取到模型请求的完整流程。
+
+[![实操演示](docs/images/project-demo.gif)](docs/images/project-demo.mp4)
+
+[下载 MP4](docs/images/project-demo.mp4?raw=true)
+
 ## 功能流程
 
 1. 接收基因、药物和癌症类型。

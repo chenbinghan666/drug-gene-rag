@@ -6,6 +6,14 @@
 
 Python · PubMed · Zhipu AI
 
+## Démonstration
+
+Montre la requête PubMed, la récupération des résumés et l’appel au modèle avec des réponses API simulées.
+
+[![Démonstration](../../docs/images/project-demo.gif)](../../docs/images/project-demo.mp4)
+
+[Télécharger le MP4](../../docs/images/project-demo.mp4?raw=true)
+
 ## Flux fonctionnel
 
 1. Recevez des gènes, des médicaments et des types de cancer.

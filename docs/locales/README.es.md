@@ -6,6 +6,14 @@ Tras introducir un gen, un fármaco y un tipo de cáncer, la herramienta recuper
 
 Python · PubMed · Zhipu AI
 
+## Demostración
+
+Muestra la consulta a PubMed, la obtención de resúmenes y la petición al modelo con respuestas simuladas.
+
+[![Demostración](../../docs/images/project-demo.gif)](../../docs/images/project-demo.mp4)
+
+[Descargar MP4](../../docs/images/project-demo.mp4?raw=true)
+
 ## Flujo funcional
 
 1. Recibir genes, medicamentos y tipos de cáncer.

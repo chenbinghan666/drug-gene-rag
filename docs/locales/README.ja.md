@@ -6,6 +6,14 @@
 
 Python · PubMed · Zhipu AI
 
+## 操作デモ
+
+モック応答を使い、PubMed 検索、抄録取得、モデルへのリクエストを実演します。
+
+[![操作デモ](../../docs/images/project-demo.gif)](../../docs/images/project-demo.mp4)
+
+[MP4 をダウンロード](../../docs/images/project-demo.mp4?raw=true)
+
 ## 機能フロー
 
 1. 遺伝子、薬剤、がんの種類を受け取ります。
